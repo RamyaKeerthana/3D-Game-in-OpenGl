@@ -1,0 +1,9 @@
+->f1 for adventurer view
+->f2 for follow cam view
+->f3 for Tower view
+->f4 for top view
+->f5 for helicopter view
+->arrowkeys for player movement
+->i,k,j,l for forward,backward,left and right jump respectively
+->the player can jump a bit into the moving blocks but if the displacement of moving blocks is very high then the adventure ends
+->if the target is reached we reach next level where the number of obstacles increases
